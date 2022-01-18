@@ -1,0 +1,6 @@
+C:\Users\cvit-\RiderProjects\Laba7\Laba7\bin\Debug\Laba7.exe
+C:\Users\cvit-\RiderProjects\Laba7\Laba7\bin\Debug\Laba7.pdb
+C:\Users\cvit-\RiderProjects\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\cvit-\RiderProjects\Laba7\Laba7\obj\Debug\Laba7.exe
+C:\Users\cvit-\RiderProjects\Laba7\Laba7\obj\Debug\Laba7.pdb
+C:\Users\cvit-\RiderProjects\Laba7\Laba7\obj\Debug\Laba7.csprojAssemblyReference.cache
